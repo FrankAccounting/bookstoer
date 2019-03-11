@@ -14,7 +14,7 @@ ISP RULES:
 Clients should not be forced to depend on methods that they do not use.
 
 THE CHALLENGE:
---------------
+===================================
 This lab includes an Interface that breaks the Interface Segregation Principle (ISP).
 
 For the first part, refactor the program in "isp.lab1" to use two interfaces
